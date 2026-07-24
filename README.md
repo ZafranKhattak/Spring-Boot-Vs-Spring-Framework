@@ -18,3 +18,17 @@ Java mein iska matlab:
 * Bean configuration karni
   
 Is liye Spring powerful hai, lekin setup mein time lagta hai.
+
+# Spring Boot
+
+Ab socho koi company tumhein Ready Made House Kit de.
+Us mein:
+
+* Wiring already
+* Plumbing already
+* Doors already
+* Windows already
+
+Tum sirf furniture rakho aur rehna shuru karo.
+Yehi Spring Boot hai.
+Spring Boot = Spring Framework + Automatic Configuration + Easy Setup
