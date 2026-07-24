@@ -32,3 +32,23 @@ Us mein:
 Tum sirf furniture rakho aur rehna shuru karo.
 Yehi Spring Boot hai.
 Spring Boot = Spring Framework + Automatic Configuration + Easy Setup
+
+# Real Difference
+Spring
+Developer:
+- Configuration
+- Dependencies
+- Server setup
+- Bean setup
+- Project setup
+
+Developer ka bohat time setup mein chala jata hai.
+
+# Spring Boot
+Developer:
+- Business Logic
+- Controllers
+- Services
+- Repository
+
+Baqi ka kaam Spring Boot khud kar deta hai
