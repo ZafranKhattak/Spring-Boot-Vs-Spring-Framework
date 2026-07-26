@@ -1,5 +1,33 @@
 # Spring-Boot-Vs-Spring-Framework
 
+# Spring Se Pehle Kya Hota Tha?
+* Problem 1 - Bahut Sara Boilerplate Code
+* Problem 2 - Object Banana
+* Engine engine = new Engine();
+  Car car = new Car(engine);
+* Problem 3 - Configuration (<bean id="car" class="Car"/>)
+* Problem 4 - Database Setup
+Database connect karna easy nahi tha.
+                    * Driver
+                    * URL
+                    * Username
+                    * Password
+                    * Queries
+                    * Connection Close
+                    * Exception Handling
+Sab manually Har project me.
+* Problem 5 - Dependency Management
+Project me agar 20 libraries use karni hon.
+                   * Sab download karo.
+                   * Version check karo.
+                   * Conflict solve karo.
+  
+# To Spring Ne Kya Kiya?
+* Spring ne kaha:
+* Developer...
+* Tum business logic likho.
+
+Baaki boring kaam main karunga. 
 # Spring Framework
 * Socho tum ghar bana rahe ho.
 Spring Framework mein tumhein har cheez khud setup karni parti hai.
