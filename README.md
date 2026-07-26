@@ -52,3 +52,5 @@ Developer:
 - Repository
 
 Baqi ka kaam Spring Boot khud kar deta hai
+# Boilerplate Code
+* Wohi code jo har project me baar baar likhna padta hai.
