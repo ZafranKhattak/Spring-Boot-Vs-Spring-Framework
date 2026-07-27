@@ -92,3 +92,19 @@ Baqi ka kaam Spring Boot khud kar deta hai
 
 # Boilerplate Code
 * Wohi code jo har project me baar baar likhna padta hai.
+
+# Framework Kya Hota Hai?
+Framework matlab:
+Ready-made structure.
+Example:
+Tum ghar banana chahte ho.
+Framework tumhe de deta hai:
+* Design
+* Rooms
+* Foundation
+Tum sirf apni zarurat ke hisab se changes karte ho.
+Software me bhi framework ready structure provide karta hai.
+Framework ke andar tum kaam karte ho.
+Framework decide karta hai kab kya chalega.
+Matlab:
+👉 Control framework ke paas hota hai.
