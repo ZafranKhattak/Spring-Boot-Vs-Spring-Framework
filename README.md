@@ -108,3 +108,11 @@ Framework ke andar tum kaam karte ho.
 Framework decide karta hai kab kya chalega.
 Matlab:
 👉 Control framework ke paas hota hai.
+
+| Department | Kaam                      |
+| ---------- | ------------------------- |
+| Core       | Objects manage karta hai  |
+| Security   | Login handle karta hai    |
+| Data       | Database handle karta hai |
+| Web        | Website banata hai        |
+| Test       | Testing karta hai         |
