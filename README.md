@@ -47,15 +47,6 @@ Java mein iska matlab:
   
 Is liye Spring powerful hai, lekin setup mein time lagta hai.
 
-| Without Spring         | With Spring                 |
-| ---------------------- | --------------------------- |
-| Manual Object Creation | Automatic Object Management |
-| Zyada Configuration    | Easy Configuration          |
-| Repeat Code            | Reusable Code               |
-| Hard Maintenance       | Easy Maintenance            |
-| Time Zyada             | Time Kam                    |
-| Errors Zyada           | Errors Kam                  |
-
 # Spring Boot
 
 Ab socho koi company tumhein Ready Made House Kit de.
@@ -91,3 +82,12 @@ Developer:
 Baqi ka kaam Spring Boot khud kar deta hai
 # Boilerplate Code
 * Wohi code jo har project me baar baar likhna padta hai.
+
+  | Without Spring         | With Spring                 |
+| ---------------------- | --------------------------- |
+| Manual Object Creation | Automatic Object Management |
+| Zyada Configuration    | Easy Configuration          |
+| Repeat Code            | Reusable Code               |
+| Hard Maintenance       | Easy Maintenance            |
+| Time Zyada             | Time Kam                    |
+| Errors Zyada           | Errors Kam                  |
