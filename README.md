@@ -80,8 +80,6 @@ Developer:
 - Repository
 
 Baqi ka kaam Spring Boot khud kar deta hai
-# Boilerplate Code
-* Wohi code jo har project me baar baar likhna padta hai.
 
 | Without Spring         | With Spring               |
 | ---------------------- | --------------------------- |
@@ -91,3 +89,6 @@ Baqi ka kaam Spring Boot khud kar deta hai
 | Hard Maintenance       | Easy Maintenance            |
 | Time Zyada             | Time Kam                    |
 | Errors Zyada           | Errors Kam                  |
+
+# Boilerplate Code
+* Wohi code jo har project me baar baar likhna padta hai.
