@@ -83,7 +83,7 @@ Baqi ka kaam Spring Boot khud kar deta hai
 # Boilerplate Code
 * Wohi code jo har project me baar baar likhna padta hai.
 
-  | Without Spring         | With Spring                 |
+| Without Spring         | With Spring               |
 | ---------------------- | --------------------------- |
 | Manual Object Creation | Automatic Object Management |
 | Zyada Configuration    | Easy Configuration          |
