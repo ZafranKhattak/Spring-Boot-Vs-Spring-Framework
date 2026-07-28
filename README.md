@@ -116,3 +116,19 @@ Matlab:
 | Data       | Database handle karta hai |
 | Web        | Website banata hai        |
 | Test       | Testing karta hai         |
+
+
+# Features of Spring Framework
+* Feature 1 - Lightweight Framework(Iska matlab ye nahi ke Spring ki file size choti hai.
+
+Simple matlab:
+
+Spring unnecessary cheezen force nahi karta. Tum sirf wahi modules use karte ho jo tumhe chahiye.)
+* Feature 2 - Modular Architecture (Ek chhota part jo apna specific kaam karta hai.)
+* Feature 3 - Dependency Injection
+* Feature 4 - Inversion of Control (IOC)
+Naam thoda difficult lagta hai.
+Lekin concept bohot easy hai.
+Without Spring
+Developer sab kuch control karta hai.
+* Feature 5 - Easy Database Support
