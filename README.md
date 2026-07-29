@@ -132,3 +132,30 @@ Lekin concept bohot easy hai.
 Without Spring
 Developer sab kuch control karta hai.
 * Feature 5 - Easy Database Support
+
+# Dependency Injection
+* Jab ek cheez ko kaam karne ke liye dusri cheez ki zarurat ho, usay Dependency kehte hain.
+* Real Life Example 2 🖥️
+
+* Computer ko chalne ke liye electricity chahiye.
+*Computer → Electricity
+*Computer depends on Electricity.
+*Electricity uski dependency hai.
+Problem Kya Hai?
+
+Socho project me:
+
+100 Classes
+300 Objects
+
+Har object ko manually banana hai.
+
+Har dependency manually deni hai.
+
+😫 Kitna difficult hoga?
+
+Agar Engine ka constructor change ho gaya.
+
+To bohot sari files change karni padengi.
+
+Maintenance mushkil ho jayegi.
